@@ -7,12 +7,7 @@
 - Просмотр деталей отдельной вакансии;
 - И добавление вакансий в список "Избранного".
 ## Скриншоты
-<p align="center">
-    <img src="https://github.com/user-attachments/assets/dcde7f88-57ae-4cfb-90f3-4e81e514adce" alt="screenshot1" width="200"/>
-    <img src="https://github.com/user-attachments/assets/cc8e76d6-b9a3-49bc-9fc0-c83dc8806810" alt="screenshot2" width="200"/>
-    <img src="https://github.com/user-attachments/assets/be8af873-bc86-4c59-9352-b31c03f15b7a" alt="screenshot3" width="200"/>
-    <img src="https://github.com/user-attachments/assets/a7e377ed-0f52-420d-8715-94d03a4d1a8d" alt="screenshot4" width="200"/>
-</p>
+
 
 
 ## Приобретенный опыт
